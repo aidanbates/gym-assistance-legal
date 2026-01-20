@@ -24,7 +24,7 @@ You agree NOT to:
 - Impersonate others or provide false information
 
 ## Intellectual Property
-- The Gym Assistance app, design, and codebase are owned by [Your Company Name]
+- The Gym Assistance app, design, and codebase are owned by Aidan Bates
 - Workout templates created by other users belong to their respective creators
 - You retain ownership of your personal workout data
 
@@ -57,7 +57,7 @@ We reserve the right to terminate accounts that violate these terms.
 We may update these terms. Continued use constitutes acceptance of changes.
 
 ## Governing Law
-These terms are governed by the laws of [Your Country/State].
+These terms are governed by the laws of Queensland, Australia.
 
 ## Contact
 For questions about these terms: support@gymassistance.com
